@@ -1,0 +1,1 @@
+-keep class dev.soundlink.sound_link.SoundLinkNative { *; }
